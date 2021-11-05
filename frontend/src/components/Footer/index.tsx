@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <footer className="footer mt-auto py-3 bg-dark">
@@ -7,7 +5,7 @@ const Footer = () => {
         <p className="text-light">
           App desenvolvido por{" "}
           <a
-            href="https://github.com/Osmar-Araujo"
+            href="https://www.linkedin.com/in/osmar-araujo-gr"
             target="_blank"
             rel="noreferrer"
           >
